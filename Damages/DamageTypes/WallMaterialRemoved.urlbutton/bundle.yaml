@@ -1,0 +1,6 @@
+title: 
+    en_us: Wall Material Removed
+tooltip:
+    en_us:  Wall material removed label should be used when a portion of the wall or wall material has been removed. This damage type can be similar to flood cut, we want to make sure that we don’t use wall material removed when there is a flood cut present. 
+hyperlink: "https://docs.google.com/document/d/142xKz_rIGBWPos8qkZe-2g6HxBclfSbYtmocUYLxgGs/"
+    
