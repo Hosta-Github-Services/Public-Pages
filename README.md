@@ -1,1 +1,1 @@
-# create place holer readme
+# create placeholder readme
