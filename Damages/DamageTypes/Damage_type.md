@@ -7,8 +7,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="BaseboardDamaged.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="BaseboardDamaged.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="BaseboardDamaged\icon.png" style="width 45%; height auto;">
+        <img src="BaseboardDamaged\tooltip.png" style="width 45%; height auto;">
 
 ###  Baseboard Removed
 
@@ -18,8 +18,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="BaseboardRemoved.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="BaseboardRemoved.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="BaseboardRemoved\icon.png" style="width 45%; height auto;">
+        <img src="BaseboardRemoved\tooltip.png" style="width 45%; height auto;">
 
 ###  Cabinet Damaged
 
@@ -29,8 +29,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="CabinetDamaged.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="CabinetDamaged.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="CabinetDamaged\icon.png" style="width 45%; height auto;">
+        <img src="CabinetDamaged\tooltip.png" style="width 45%; height auto;">
 
 ###  Casing Damaged
 
@@ -40,8 +40,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="CasingDamaged.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="CasingDamaged.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="CasingDamaged\icon.png" style="width 45%; height auto;">
+        <img src="CasingDamaged\tooltip.png" style="width 45%; height auto;">
 
 ###  Casing Removed
 
@@ -51,8 +51,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="CasingRemoved.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="CasingRemoved.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="CasingRemoved\icon.png" style="width 45%; height auto;">
+        <img src="CasingRemoved\tooltip.png" style="width 45%; height auto;">
 
 ###  Ceiling Material Removed
 
@@ -62,8 +62,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="CeilingMaterialRemoved.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="CeilingMaterialRemoved.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="CeilingMaterialRemoved\icon.png" style="width 45%; height auto;">
+        <img src="CeilingMaterialRemoved\tooltip.png" style="width 45%; height auto;">
 
 ###  Crown Molding Damaged
 
@@ -73,8 +73,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="CrownMoldingDamaged.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="CrownMoldingDamaged.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="CrownMoldingDamaged\icon.png" style="width 45%; height auto;">
+        <img src="CrownMoldingDamaged\tooltip.png" style="width 45%; height auto;">
 
 ###  Crown Molding Removed
 
@@ -84,8 +84,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="CrownMoldingRemoved.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="CrownMoldingRemoved.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="CrownMoldingRemoved\icon.png" style="width 45%; height auto;">
+        <img src="CrownMoldingRemoved\tooltip.png" style="width 45%; height auto;">
 
 ###  Delamination damage
 
@@ -95,8 +95,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Delamination.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Delamination.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Delamination\icon.png" style="width 45%; height auto;">
+        <img src="Delamination\tooltip.png" style="width 45%; height auto;">
 
 ###  Deteriorated damage
 
@@ -106,8 +106,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Deteriorated.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Deteriorated.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Deteriorated\icon.png" style="width 45%; height auto;">
+        <img src="Deteriorated\tooltip.png" style="width 45%; height auto;">
 
 ###  Flooring Removed
 
@@ -117,8 +117,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="FlooringRemoved.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="FlooringRemoved.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="FlooringRemoved\icon.png" style="width 45%; height auto;">
+        <img src="FlooringRemoved\tooltip.png" style="width 45%; height auto;">
 
 ###  Interior Door Damaged
 
@@ -128,8 +128,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="InteriorDoorDamaged.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="InteriorDoorDamaged.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="InteriorDoorDamaged\icon.png" style="width 45%; height auto;">
+        <img src="InteriorDoorDamaged\tooltip.png" style="width 45%; height auto;">
 
 ###  Peeling damage
 
@@ -139,8 +139,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Peeling.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Peeling.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Peeling\icon.png" style="width 45%; height auto;">
+        <img src="Peeling\tooltip.png" style="width 45%; height auto;">
 
 ###  Rot damage
 
@@ -150,8 +150,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Rot.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Rot.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Rot\icon.png" style="width 45%; height auto;">
+        <img src="Rot\tooltip.png" style="width 45%; height auto;">
 
 ###  Sagging damage
 
@@ -161,8 +161,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Sagging.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Sagging.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Sagging\icon.png" style="width 45%; height auto;">
+        <img src="Sagging\tooltip.png" style="width 45%; height auto;">
 
 ###  Saturated damage
 
@@ -172,8 +172,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Saturated.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Saturated.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Saturated\icon.png" style="width 45%; height auto;">
+        <img src="Saturated\tooltip.png" style="width 45%; height auto;">
 
 ###  Seam Damage
 
@@ -183,8 +183,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="SeamDamage.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="SeamDamage.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="SeamDamage\icon.png" style="width 45%; height auto;">
+        <img src="SeamDamage\tooltip.png" style="width 45%; height auto;">
 
 ###  Stained
 
@@ -194,8 +194,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Stained.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Stained.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Stained\icon.png" style="width 45%; height auto;">
+        <img src="Stained\tooltip.png" style="width 45%; height auto;">
 
 ###  Swelling
 
@@ -205,8 +205,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Swelling.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Swelling.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Swelling\icon.png" style="width 45%; height auto;">
+        <img src="Swelling\tooltip.png" style="width 45%; height auto;">
 
 ###  Tackless Strip
 
@@ -216,8 +216,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="TacklessStrip.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="TacklessStrip.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="TacklessStrip\icon.png" style="width 45%; height auto;">
+        <img src="TacklessStrip\tooltip.png" style="width 45%; height auto;">
 
 ###  Tile Shower Surround Damaged
 
@@ -227,8 +227,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="TileShowerSurroundDamaged.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="TileShowerSurroundDamaged.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="TileShowerSurroundDamaged\icon.png" style="width 45%; height auto;">
+        <img src="TileShowerSurroundDamaged\tooltip.png" style="width 45%; height auto;">
 
 ###  Toe Kick Damage
 
@@ -238,8 +238,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="ToeKickDamage.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="ToeKickDamage.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="ToeKickDamage\icon.png" style="width 45%; height auto;">
+        <img src="ToeKickDamage\tooltip.png" style="width 45%; height auto;">
 
 ###  Vanity Damaged
 
@@ -249,8 +249,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="VanityDamaged.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="VanityDamaged.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="VanityDamaged\icon.png" style="width 45%; height auto;">
+        <img src="VanityDamaged\tooltip.png" style="width 45%; height auto;">
 
 ###  Wall Material Removed
 
@@ -260,8 +260,8 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="WallMaterialRemoved.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="WallMaterialRemoved.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="WallMaterialRemoved\icon.png" style="width 45%; height auto;">
+        <img src="WallMaterialRemoved\tooltip.png" style="width 45%; height auto;">
 
 ###  Wet
 
@@ -271,5 +271,5 @@
 
 <div style="width 600px; height 300;justify-content space-between;">
     <div style="width 50%; height auto; overflow hidden;">
-        <img src="Wet.urlbutton\icon.png" style="width 45%; height auto;">
-        <img src="Wet.urlbutton\tooltip.png" style="width 45%; height auto;">
+        <img src="Wet\icon.png" style="width 45%; height auto;">
+        <img src="Wet\tooltip.png" style="width 45%; height auto;">
