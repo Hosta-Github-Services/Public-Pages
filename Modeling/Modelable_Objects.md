@@ -1,296 +1,258 @@
-# Air Terminal
- 
-# Dimension_Point
- 
-# Fireplace
- 
-# HVAC_Air_Terminal
- 
-# Mirror
- 
-# Rectangle Column
- 
-# Round Column
- 
-# Square Column
- 
-# Thermostat
- 
-# Trim-Window-Exterior-Flat
- 
-# Trim-Window-Interior-Flat
- 
-# Window-Free_standing
- 
-# air_conditioner
- 
-# base_cabinet
- 
-# base_cabinet-double
- 
-# base_cabinet-single
- 
-# base_cabinet[corner]
- 
-# ceiling_light-flush
- 
-# ceiling_light-pendant
- 
-# ceiling_light-recessed
- 
-# ceiling_light_fluorescent
- 
-# column_round
- 
-# cook_top-electric
- 
-# cook_top-electric[face]
- 
-# cook_top-gas
- 
-# cook_top-gas[face]
- 
-# cook_top-induction
- 
-# cook_top-induction[face]
- 
-# countertop
- 
-# countertop-island
- 
-# countertop-wall
- 
-# countertop-wall[corner]
- 
-# damage-baseboard_damaged[wall]
- 
-# damage-baseboard_removed[wall]
- 
-# damage-carpet_removed[floor]
- 
-# damage-ceiling_material_removed
- 
-# damage-delamination[floor]
- 
-# damage-delamination[wall]
- 
-# damage-deteriorated[free_standing]
- 
-# damage-drywall_removed[ceiling]
- 
-# damage-drywall_removed[free_standing]
- 
-# damage-drywall_removed[wall]
- 
-# damage-exposed_insulation[free_standing]
- 
-# damage-flood_cut
- 
-# damage-flooring_removed
- 
-# damage-molding_damaged[wall]
- 
-# damage-molding_removed[wall]
- 
-# damage-peeling[free_standing]
- 
-# damage-rot[free_standing]
- 
-# damage-sagging[ceiling]
- 
-# damage-saturated[free_standing]
- 
-# damage-seam[ceiling]
- 
-# damage-seam[wall]
- 
-# damage-stained[free_standing]
- 
-# damage-swelling[free_standing]
- 
-# damage-tackless_strip[floor]
- 
-# damage-wall_material_removed
- 
-# damage-wet[free_standing]
- 
-# dishwasher
- 
-# dishwasher[floor]
- 
-# door
- 
-# door-access
- 
-# door-double_flush
- 
-# door-double_pocket
- 
-# door-double_sliding
- 
-# door-folding
- 
 # door-free_standing
  
-# door-garage
+# sink-overcounter
  
-# door-opening
- 
-# door-opening[free-standing]
- 
-# door-shower
- 
-# door-single_flush
- 
-# door-single_pocket
- 
-# door-single_sliding
- 
-# example_family_name
- 
-# exhaust_hood-island
+# damage-baseboard_damaged
  
 # exhaust_hood-wall
  
-# family_name
- 
-# fireplace_mantle
- 
-# furniture-rug
- 
-# generic_model
- 
-# generic_model-face_based
- 
-# generic_model-wall_Based
- 
-# interior_window
- 
-# interior_window-alcove
- 
-# interior_window-casement
- 
-# interior_window-fixed
- 
-# interior_window-fixed-trapezoid
- 
-# interior_window-horizontal_sliding
- 
-# interior_window-hung
- 
-# interior_window-opening
- 
-# interior_window-skylight
- 
-# interior_window[free-standing]
- 
-# island_cabinet
- 
-# island_countertop
- 
-# laundry_unit-dryer
- 
-# laundry_unit-washer
- 
-# microwave-above_range
- 
-# microwave-builtin
- 
-# microwave-countertop
- 
-# opening_alcove
- 
-# oven
- 
-# oven-double[non-shared]
- 
-# oven-single[non-shared]
- 
-# radiator-baseboard
- 
-# radiator-gas
- 
 # radiator-water
- 
-# range
- 
-# range-none[floor]
- 
-# range-slide_in
  
 # refrigerator
  
-# refrigerator-top_freezer
+# door-single_pocket
  
-# refrigerator[floor]
+# water_heater
  
-# region-waterproof-shower
+# example_family_name
  
-# region-waterproof-tub
+# Thermostat
+ 
+# Round Column
+ 
+# air_conditioner
+ 
+# interior_window-fixed
+ 
+# sink
+ 
+# shower-enclosure
+ 
+# tub-free_standing
+ 
+# radiator-baseboard
+ 
+# generic_model
+ 
+# Rectangle Column
+ 
+# damage-seam
+ 
+# damage-flood_cut
+ 
+# damage-exposed_insulation
+ 
+# Trim-Window-Interior-Flat
+ 
+# damage-molding_damaged
+ 
+# Window-Free_standing
+ 
+# shower-surround
+ 
+# microwave-above_range
  
 # shelf-assembly
  
 # shelf-single
  
-# shower
+# damage-flooring_removed
  
-# shower-base
- 
-# shower-base-corner
- 
-# shower-base-corner[wall]
- 
-# shower-base-rectangular
- 
-# shower-enclosure
- 
-# shower-surround
- 
-# sink
- 
-# sink-builtin
- 
-# sink-builtin[face]
- 
-# sink-floating
- 
-# sink-overcounter
- 
-# sink-overcounter[face]
- 
-# sink-pedestal
- 
-# tall_cabinet
+# family_name
  
 # tall_cabinet-single
  
-# toilet[floor]
+# interior_window-alcove
  
-# toilet[wall]
+# oven-double
+ 
+# oven
+ 
+# damage-wall_material_removed
+ 
+# vanity_cabinet-single_sink
+ 
+# upper_cabinet-double
+ 
+# damage-deteriorated
+ 
+# interior_window
+ 
+# damage-wet
+ 
+# base_cabinet-single
+ 
+# upper_cabinet-single
+ 
+# countertop-wall
+ 
+# shower-base-corner
+ 
+# tall_cabinet
+ 
+# HVAC_Air_Terminal
+ 
+# damage-molding_removed
+ 
+# interior_window-hung
+ 
+# door-double_flush
+ 
+# exhaust_hood-island
  
 # tub-drop_in
  
-# tub-free_standing
+# door-access
  
-# tub-free_standing[roundl]
+# sink-pedestal
  
-# tub-jetted
+# range-none
+ 
+# generic_model-face_based
+ 
+# range
+ 
+# ceiling_light-pendant
+ 
+# ceiling_light-recessed
+ 
+# cook_top-electric
+ 
+# column_round
+ 
+# damage-baseboard_removed
+ 
+# region-waterproof-tub
+ 
+# door-single_flush
+ 
+# island_cabinet
+ 
+# dishwasher
+ 
+# Dimension_Point
+ 
+# microwave-builtin
+ 
+# upper_cabinet
+ 
+# fireplace_mantle
+ 
+# damage-rot
+ 
+# door-folding
+ 
+# shower-base-rectangular
+ 
+# laundry_unit-washer
+ 
+# laundry_unit-dryer
+ 
+# door-opening
+ 
+# door-single_sliding
+ 
+# damage-delamination
+ 
+# damage-carpet_removed
+ 
+# interior_window-skylight
+ 
+# Square Column
+ 
+# vanity_cabinet-double_sink
+ 
+# countertop-island
+ 
+# opening_alcove
+ 
+# countertop
+ 
+# cook_top-gas
  
 # tub-standard
  
 # tub-surround
  
-# upper_cabinet
+# furniture-rug
  
-# upper_cabinet-double
+# damage-tackless_strip
  
-# upper_cabinet-single
+# door-garage
  
-# upper_cabinet[corner]
+# Mirror
  
-# vanity_cabinet-double_sink[non-shared]
+# island_countertop
  
-# vanity_cabinet-single_sink[non-shared]
+# Fireplace
  
-# water_heater
+# damage-saturated
+ 
+# Air Terminal
+ 
+# interior_window-casement
+ 
+# damage-sagging
+ 
+# generic_model-wall_Based
+ 
+# radiator-gas
+ 
+# door
+ 
+# toilet
+ 
+# shower
+ 
+# base_cabinet-double
+ 
+# refrigerator-top_freezer
+ 
+# ceiling_light_fluorescent
+ 
+# base_cabinet
+ 
+# tub-jetted
+ 
+# damage-swelling
+ 
+# damage-ceiling_material_removed
+ 
+# Trim-Window-Exterior-Flat
+ 
+# damage-stained
+ 
+# microwave-countertop
+ 
+# oven-single
+ 
+# door-shower
+ 
+# cook_top-induction
+ 
+# sink-builtin
+ 
+# interior_window-horizontal_sliding
+ 
+# door-double_pocket
+ 
+# door-double_sliding
+ 
+# region-waterproof-shower
+ 
+# damage-drywall_removed
+ 
+# damage-peeling
+ 
+# ceiling_light-flush
+ 
+# interior_window-opening
+ 
+# interior_window-fixed-trapezoid
+ 
+# range-slide_in
+ 
+# shower-base
+ 
+# sink-floating
  
