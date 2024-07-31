@@ -502,5 +502,7 @@
  
 # damage-casing_removed
  
+# damage-seam
+ 
 # door-garage
  
